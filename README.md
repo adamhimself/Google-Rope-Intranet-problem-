@@ -1,5 +1,5 @@
 # Google-Rope-Intranet-problem-
-##Google Code Jam - Round 1C 2010 - Problem A. Rope Intranet
+####Google Code Jam - Round 1C 2010 - Problem A. Rope Intranet
 
 ###The Problem
 
@@ -14,3 +14,7 @@ You've noticed that no two wires share an endpoint (in other words, there's at m
 On the above picture, the intersection points are the black circles, while the windows are the white circles.
 
 How many intersection points do you see?
+
+###My Solution
+
+The purpose of the program.cs is to take an input file of '.in' filetype containing lines of strings pertaining to the number of test cases, number of ropes per case, and the position values of every rope. The program adds the rope values to a List<int> object to allow a private method to iterate through all the values, determining intersections using appropriate logic. The results of the findings are then written to a output.txt file.
