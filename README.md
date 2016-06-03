@@ -1,7 +1,7 @@
 # Google-Rope-Intranet-problem-
-Google Code Jam - Round 1C 2010 - Problem A. Rope Intranet
+##Google Code Jam - Round 1C 2010 - Problem A. Rope Intranet
 
-The Problem
+###The Problem
 
 A company is located in two very tall buildings. The company intranet connecting the buildings consists of many wires, each connecting a window on the first building to a window on the second building.
 
