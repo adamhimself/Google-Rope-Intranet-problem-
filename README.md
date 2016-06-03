@@ -17,4 +17,4 @@ How many intersection points do you see?
 
 ###My Solution
 
-The purpose of the program.cs is to take an input file of '.in' filetype containing lines of strings pertaining to the number of test cases, number of ropes per case, and the position values of every rope. The program adds the rope values to a List<int> object to allow a private method to iterate through all the values, determining intersections using appropriate logic. The results of the findings are then written to a output.txt file.
+The purpose of the program.cs is to take an input file of '.in' filetype containing lines of strings pertaining to the number of test cases, number of ropes per case, and the position values of every rope. The program adds the rope values to a List<int> object to allow a private method to iterate through all the values, determining intersections using appropriate logic. The results of the findings are then written to a output.txt file. This code performs for both the small and large dataset input files provided by google code jam simply by changing the input filepath.
